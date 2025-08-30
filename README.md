@@ -1,1 +1,1 @@
-# HashTable_Codes
+## All the 6 hashtable code completed.
